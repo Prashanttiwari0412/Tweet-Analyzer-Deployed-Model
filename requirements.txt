@@ -1,7 +1,0 @@
-numpy==1.18.5
-scipy==1.4.1
-seaborn==0.10.1
-textblob
-wordcloud
-re
-matplotlib.pyplot
