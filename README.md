@@ -16,5 +16,5 @@ This tool fetches the last 100 tweets from the twitter handel & Performs the fol
 * Analyzes Polarity of tweets and adds an additional column for it
 * Analyzes Sentiments of tweets and adds an additional column for it
  
-
+## Check live project at : https://share.streamlit.io/prashanttiwari0412/tweet-analyzer-deployed-model/main/app.py
 
